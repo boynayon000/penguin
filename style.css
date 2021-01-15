@@ -1,0 +1,23 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+.web-title{
+    font-size: 60px;
+    color:goldenrod;
+    
+}
+.h1-color{
+    font-size:60px;
+    color: rgb(27, 2, 2);
+    font-family: 'Fjalla One', sans-serif;
+
+}
+.card-img-height{
+    height: 300px;
+    border-radius: 10px;
+  
+}
+.card{
+    border: 0;
+    height: 480px;  
+}
